@@ -1,0 +1,1 @@
+add_executable(hello_world_pandoc main.cpp)
